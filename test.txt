@@ -1,2 +1,2 @@
-def runnerVersion="2.0.2"
-def runnerCheckSum="5d4a6sd1a6sd85a47s6d5as5d4a6s4ffd5a4"
+def runnerVersion="v2.298.2"
+def runnerCheckSum="0bfd792196ce0ec6f1c65d2a9ad00215b2926ef2c416b8d97615265194477117"
